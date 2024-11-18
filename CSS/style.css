@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+body {
+  background: linear-gradient(120deg, blue, purple);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 70vh;
+  margin: auto;
+}
+.page-container {
+  text-align: center;
+  background-color: #f2f2f2;
+  width: 400px;
+  height: auto;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+}
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+  text-size: bold;
+  padding-top: 50px;
+}
+.fill-user {
+  text-align: left;
+  padding-left: 50px;
+  padding-bottom: 20px;
+  width: 100px;
+}
+.box-content1 {
+  width: 300%;
+  padding-left: 8px;
+}
+.fill-user2 {
+  text-align: left;
+  padding-left: 50px;
+}
+.box-content2 {
+  width: 300px;
+  padding-left: 8px;
+}
+.forget {
+  text-align: end;
+  padding-right: 50px;
+  padding-bottom: 20px;
+}
+.forget a {
+  text-decoration: none;
+}
+.enter {
+  background: linear-gradient(120deg, blue, purple);
+  padding: 5px 150px;
+  border-radius: 10px;
+}
+.enter a {
+  text-decoration: none;
+  color: white;
+}
+.visit {
+  padding-top: 50px;
+}
+.page-container1 {
+  padding-bottom: 100px;
+  padding-top: 12px;
+  text-decoration: none;
+}
+.sign {
+  text-decoration: none;
+}
+.page1 {
+  background-color: blue;
+  border-radius: 50px;
+  text-decoration: none;
+}
+.page2 {
+  background-color: blue;
+  border-radius: 50px;
+  text-decoration: none;
+}
+.page3 {
+  background-color: red;
+  border-radius: 50px;
+  text-decoration: none;
+}
